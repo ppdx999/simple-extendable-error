@@ -1,5 +1,9 @@
 # simple-extendable-error
 
+# Install
+```
+npm i simple-extendable-error
+```
 
 # Usage
 
